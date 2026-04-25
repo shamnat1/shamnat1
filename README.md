@@ -1,17 +1,6 @@
-# Hi there, I'm Shamna 👋
+# Hi, I'm Shamna 👋
 
 Welcome to my GitHub profile! I'm passionate about building software and continuously learning new technologies.
-
----
-
-## 🚀 About Me
-
-- 🔭 I'm currently working on exciting projects
-- 🌱 I'm currently learning new technologies
-- 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about software development
-- 📫 How to reach me: check my repositories for contact info
-- ⚡ Fun fact: I love solving challenging problems
 
 ---
 
@@ -35,8 +24,3 @@ Welcome to my GitHub profile! I'm passionate about building software and continu
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shamnat1&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div>
-
----
-
-⭐️ From [shamnat1](https://github.com/shamnat1)
